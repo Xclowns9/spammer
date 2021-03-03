@@ -4,4 +4,4 @@ $ cd spammer
 $ sh spam.sh
 ```
 
-***Happy Spam Aowkaowkwo***
+***Btw Males Encrypt Aowkaowkwo***
